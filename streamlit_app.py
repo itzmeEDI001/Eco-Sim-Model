@@ -29,5 +29,6 @@ def run_simulation(species_count, environmental_factor):
 
 from src.eco_sim_model import run_simulation
 
-source venv/bin/activate
+.\venv\Scripts\activate
+
 

@@ -26,3 +26,5 @@ st.subheader('Visualization')
 def run_simulation(species_count, environmental_factor):
     # Your simulation logic here
     pass
+
+from src.eco_sim_model import run_simulation

@@ -28,3 +28,6 @@ def run_simulation(species_count, environmental_factor):
     pass
 
 from src.eco_sim_model import run_simulation
+
+source venv/bin/activate
+
